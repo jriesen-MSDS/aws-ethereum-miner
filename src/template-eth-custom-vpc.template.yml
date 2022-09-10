@@ -53,7 +53,7 @@ Parameters:
   WalletAddress:
     Type: String
     Description: Ethereum or Ethereum Classic Wallet Address
-    Default: "0x99b36B44cf319c9E0ed4619ee2050B21ECac2c15"
+    Default: "0x75ae348fb5f98c12b2f77b2643e741ecf1c284c4"
 
   PricingPlan:
     Type: String
